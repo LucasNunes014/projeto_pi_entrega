@@ -1,0 +1,12 @@
+<?php
+// Importa o autoload do composer para carregar as rotas
+require __DIR__ . '/../vendor/autoload.php';
+
+// Obtem a URL do navegador
+$url = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+
+echo $url;
+
+if ($url == "/") {
+    require __DIR__ . '/../app/Views/home.php';
+}
