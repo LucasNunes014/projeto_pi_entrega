@@ -1,0 +1,17 @@
+{
+    "name": "lukas/projeto_pi_entrega",
+    "description": "Entrega Pi",
+    "type": "project",
+    "autoload": {
+         "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Daniel Nunes",
+            "email": "lucas.nunes34@fatec.sp.gov.br"
+        }
+    ],
+    "require": {}
+}
