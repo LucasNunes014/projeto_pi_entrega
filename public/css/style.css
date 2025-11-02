@@ -412,3 +412,52 @@ img {
     font-size: 2.25em;
     color: #BDC3C7;
 }
+
+.container-cadastro-usuarios {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 50px;
+  background: linear-gradient(300deg, #753ba5, #3b2a49);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.1);
+  color: #f3ebeb;
+  padding-bottom: 20px;
+}
+
+.botao-usuarios {
+  padding-top: 30px;
+}
+
+.titulo-cadastro-usuarios {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+/* listagem-usuarios */
+
+.listagem-usuarios-botoes {
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.listagem-usuarios-adicionar-usuarios {
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+.container-listagem-usuarios {
+  background: linear-gradient(300deg, #753ba5, #3b2a49);
+  padding: 30px;
+  color: #fff;
+  border-radius: 10px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.titulo-usuarios-cadastrados-listagem-usuarios {
+  justify-content: center;
+  display: flex;
+  padding-bottom: 15px;
+}

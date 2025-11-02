@@ -13,7 +13,7 @@ Criar uma pasta para o projeto e rodar no CMD:
 #Criar uma pasta public com um index.php dentro
 
 #Iniciar o servidor do PHP
-    php -S localshost:8000 -t public ou php -S 127.0.0.1:8000 -t public
+    php -S localhost:8000 -t public ou php -S 127.0.0.1:8000 -t public
 
 ## QUANDO ABRE O PROJETO EM UM NOVO PC
     composer install

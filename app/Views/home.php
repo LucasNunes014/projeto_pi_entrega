@@ -26,10 +26,10 @@
 			</div>
 			<nav class="menu-nav">
 				<ul>
-					<li><a href="#sobre">Sobre</a></li>
-					<li><a href="#produtos">Filmes</a></li>
-					<li><a href="#preco">Preço</a></li>
-					<li><a href="#qualidade">Catálogos</a></li>
+					<li><a href="/util/Locadora/Login.html">Login</a></li>
+					<li><a href="/util/Locadora/dashboard.html">Dashboard</a></li>
+					<li><a href="/util/Locadora/ListagemUsuários.html">Usuários</a></li>
+					<li><a href="/util/Locadora/cadastroUsuario.html">Cadastrar Usuários</a></li>
 				</ul>
 			</nav>
 		</div>
